@@ -36,13 +36,13 @@ L’application s’ouvre automatiquement dans le navigateur sur http://localhos
 ## 📁 Arborescence du projet
 
 streamlit-exif-voyages/
-├── app.py                 → Application principale Streamlit
-├── requirements.txt       → Dépendances Python
+├── app.py               # Application principale Streamlit
+├── requirements.txt     # Dépendances Python
+├── README.md            # Ce fichier
 ├── data/
-│   └── photo.jpg          → Image à modifier
-├── assets/
-│   └── lieux.csv          → Lieux à afficher sur la carte
-└── README.md              → Ce fichier
+│   └── photo.jpg        # Image à modifier
+└── assets/
+    └── lieux.csv        # Lieux à afficher sur la carte
 
 ## 🌐 Déploiement en ligne
 
