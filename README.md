@@ -33,20 +33,6 @@ L’application s’ouvre automatiquement dans le navigateur sur http://localhos
 - Affichage de l'emplacement sur une carte (Folium)
 - Carte interactive avec tous les voyages passés ou rêves depuis un fichier CSV
 
-## 📁 Arborescence du projet
-
-streamlit-exif-voyages/
-│
-├── app.py               → Application principale Streamlit
-├── requirements.txt     → Liste des dépendances Python
-├── README.md            → Fichier d’explication du projet
-│
-├── data/
-│   └── photo.jpg        → Image JPEG à modifier
-│
-└── assets/
-    └── lieux.csv        → Coordonnées des lieux à afficher sur la carte
-
 ## 🌐 Déploiement en ligne
 
 Déploiement possible via https://streamlit.io/cloud en connectant ce dépôt GitHub.
